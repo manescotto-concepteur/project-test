@@ -11,4 +11,5 @@ public class ClasseBidon {
 	private String branch;
 	private String arbre;
 
+	private Ajout ajout;
 }
