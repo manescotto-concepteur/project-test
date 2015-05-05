@@ -6,5 +6,6 @@ public class PloufClass {
 	public String monNom = "Olviier";
 	public String secondeBranche = "Modif de Plouf dans la branche 2";
 	public String ajoutApresRebase = "After rebase";
-	
+
+	public String afterRebase = "AfterRebase!";
 }
