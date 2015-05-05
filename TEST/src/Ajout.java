@@ -5,5 +5,7 @@ public class Ajout {
 	private Ajout ajout3;
 	private Ajout ajout4;
 	private Ajout ajout5;
+	
+	private Ajout masterNotRebased;
 
 }
