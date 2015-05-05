@@ -10,6 +10,8 @@ public class ClasseBidon {
 	// Ces variables ont etes crees apres le commit sur la premiere branche
 	private String branch;
 	private String arbre;
+	
+	private String ajoutRebase;
 
 	private Ajout ajout;
 }
